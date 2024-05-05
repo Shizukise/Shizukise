@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![giphy](https://github.com/Shizukise/Shizukise/assets/84677281/154f0733-7a40-4707-b61c-4f99cbea996c)
 
 <!--
 **Shizukise/Shizukise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

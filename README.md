@@ -5,8 +5,6 @@
     </div>
 </div>
 
-<p>Currently studying on my own but i would love to find a mentor.</p>
-
 <!--
 **Shizukise/Shizukise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
